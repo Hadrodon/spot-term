@@ -1,3 +1,7 @@
-fn main() {
-    println!("Hello, world!");
+use std::io::Result;
+
+mod tui;
+
+fn main() -> Result<()> {
+    Ok(())
 }

@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+ratatui = "0.28.0"
+color-eyre = "0.6"
+#clap = "4.5.16" https://docs.rs/clap/latest/clap/index.html
+#serde = "1.0" https://serde.rs/data-model.html
